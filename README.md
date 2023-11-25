@@ -3,7 +3,7 @@
 
 - - I’m currently learning **HTML, CSS, Javascript and Django!**
 
-- - You can reach me in: **davileahy2@gmail.com**
+- - You can reach me at: **davileahy2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
