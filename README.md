@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Davi Leahy ;)</h1>
 <h3 align="center">Computer Science student. Inspired by innovation, new tecnologies and development.</h3>
 
-- - I’m currently learning **HTML, CSS, Javascript and Django!**
+- I’m currently learning **HTML, CSS, Javascript and Django!**
 
-- - You can reach me at: **davileahy2@gmail.com**
+-  You can reach me at: **davileahy2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
