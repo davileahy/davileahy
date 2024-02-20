@@ -8,7 +8,8 @@
 <div align="center">
   <h3>Connect with me:</h3>
   <p>
-  <a href="https://instagram.com/davileahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davileahy" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/davi-leahy-60a3b42ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davileahy linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/davileahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davileahy ig" height="30" width="40" /></a>
   </p>
   
   <h3>Languages and Tools:</h3>
