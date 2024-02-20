@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Davi Leahy ;)</h1>
 <h3 align="center">Computer Science student. Inspired by innovation, new tecnologies and development.</h3>
 
-- I’m currently learning **HTML, CSS, Javascript and Django!**
+- I’m currently working with **HTML, CSS, Python, React, Javascript and Django!**
 
 -  You can reach me at: **davileahy2@gmail.com**
 
@@ -21,6 +21,8 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+    
   </p>
   
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davileahy&show_icons=true&theme=dark&locale=en&layout=compact" alt="davileahy" /></p>
