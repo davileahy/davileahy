@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Davi Leahy ;)</h1>
-<h3 align="center">Computer Science student. Inspired by innovation, new tecnologies and development.</h3>
+<h3 align="center">Software Engineer, Developer and Computer Science student. Inspired by innovation, new tecnologies and development.</h3>
 
-- I’m currently working with **HTML, CSS, Python, React, Javascript and Django!**
+- I’m currently working with **Django, React, Python, Javascript, HTML and CSS**
 
 -  You can reach me at: **davileahy2@gmail.com**
 
